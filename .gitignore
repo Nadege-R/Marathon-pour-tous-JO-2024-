@@ -1,3 +1,6 @@
+# data file
+data/raw_data_marathon.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
